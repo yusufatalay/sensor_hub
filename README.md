@@ -28,8 +28,11 @@ Bu proje, bir STM32F4 kartından (MPU6050 sensörü ile) alınan ivmeölçer ver
 * **Make:** BBB uygulamasını derlemek için.
 
 ## Depo Yapısı
+```
 ├── stm32f4_firmware/  # STM32F4 CubeIDE projesi ve kaynak kodları
 ├── bbb_application/  # BeagleBone Black C uygulaması ve Makefile
 ├── buildroot_config/ # Buildroot .config dosyası ve notlar
 └── README.md         # Bu dosya - Projeye genel bakış
+  
+```
 
